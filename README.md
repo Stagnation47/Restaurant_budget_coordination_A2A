@@ -5,8 +5,14 @@
 A2A基于pocketflow开发
 
 需要开三个终端
+
+
 python -m Agent1.server
+
+
 python -m Agent2.server
+
+
 python client_test.py
 
 <img width="1725" height="486" alt="1b19dc8567a84bb9b0c884b83cac0651" src="https://github.com/user-attachments/assets/2edc9cd6-2b48-41aa-ad26-7fbf53db920e" />
